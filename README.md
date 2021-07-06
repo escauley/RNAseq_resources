@@ -1,4 +1,4 @@
-# RNAseq_resources
+# RNAseq resources
 
 These are guides to performing RNA-seq analysis in R from a workshop held by the NIH common fund in June of 2021. 
 
